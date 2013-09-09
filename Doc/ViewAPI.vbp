@@ -1,0 +1,36 @@
+Type=OleDll
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{A466B138-5C17-4D42-938B-6AAB1D10C515}#3.f#0#..\..\Program Files\Kingdee\K3ERP\K3ClassTpl.dll#K3Class Data Server
+Reference=*\G{944DFB50-282A-43D6-9272-63BA17793A20}#1.4#0#..\..\Program Files\Kingdee\K3ERP\K3ClassLookUp.dll#K3Class LookUp
+Reference=*\G{BA3A7E83-EF81-47BF-BE5B-99C294267B53}#4.56#0#..\..\Program Files\Kingdee\K3ERP\K3ClassEvents.dll#K3ClassEvents
+Reference=*\G{C876CD0F-E4C2-11D5-9FA9-00E04C54B3B6}#3.d#0#..\..\Program Files\Kingdee\K3ERP\k3BillTransfer.dll#k3BillTransfer
+Startup="(None)"
+Command32=""
+Name="viewAPI"
+HelpContextID="0"
+CompatibleMode="1"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="kingdee"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+
+[MS Transaction Server]
+AutoRefresh=1
